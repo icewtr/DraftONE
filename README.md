@@ -1,3 +1,4 @@
+<img width="1793" height="1065" alt="Draft wiring diagram" src="https://github.com/user-attachments/assets/f03c9e64-19bb-463f-906a-4aec8ab75e67" />
 # DraftONE
 DraftONE is a modular 3D printer that does (a bit) more than your everage printer.
 
@@ -121,4 +122,38 @@ DraftONE is a modular 3D printer that does (a bit) more than your everage printe
 |TOTAL COST                      |                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |         |                   |              |597.88    |
 
 
+
+# Wiring Diagram
+(no it doesnt wire itself sadly)
+<img width="1277" height="749" alt="image" src="https://github.com/user-attachments/assets/8c11e660-dece-41d5-b274-6cde0c99a378" />
+Follow this wiring diagram. make sure your diag jumpers are set (cuz sensorless homing) and you change your control fan headers to your fan voltage. usually theyre 24v so should be fine for all 24v bldc fans.
+
+
+# Assembly guide
+
+This thinng's wayyyyy tooo big to actually write a detailled wiring guide, but I'll give you the basics:
+
+1. Install heatset inserts wherever applicable
+
+2. Start by building the toolhead
+
+3. Assemble the Gantry
+
+4. Install toolhead on Gantry
+
+5. Asselble the printbed assembly
+
+6. Assemble Frame (DO NOT INSTALL ENCLOSURE PANELS)
+
+7. install printbed by tramming leadscrews
+
+8. Install gantry
+
+9. Install CoreXY hardware
+
+10. Install Electronics
+
+
+## So that's it on DraftONE, Thank you so much for actually reading through this and have fun!!!
+Made by Saharsh Nair, Funded by Hack Club
 
