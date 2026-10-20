@@ -1,6 +1,7 @@
 # DraftONE
 DraftONE is a modular 3D printer that does (a bit) more than your everage printer.
 
+<img width="1536" height="864" alt="image of draftONE" src="https://github.com/user-attachments/assets/fca8e31b-4baf-4412-a0df-05ee34cc2615" />
 
 
 # Description
