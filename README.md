@@ -5,6 +5,10 @@ DraftONE is a modular 3D printer that does (a bit) more than your everage printe
 <img width="1536" height="864" alt="image of draftONE" src="https://github.com/user-attachments/assets/fca8e31b-4baf-4412-a0df-05ee34cc2615" />
 
 
+(if you're interested in the design process, check out my [Journal!]([url](https://stardance.hackclub.com/projects/30695))
+
+
+
 # Description
 ### So what exactly is this? 
 - DraftONE is a heavy duty 3d printer style platform for manufacting. It is built to be able to handle the loads of heavy manufacturing alongside the high accelerations and speeds of performance 3d printing, whilst being in a package similar to a 3D printer
@@ -33,7 +37,7 @@ DraftONE is a modular 3D printer that does (a bit) more than your everage printe
 
 - Mean Well 350-Watt Power supply
 
-- Using an Omron Proximity sensor as a probe for bed levelling (Old vorons used to do this, very cheap method)
+- Using manual Paper levelling as a trustworthy, zero-BS levelling method (very cheap and reliable)
 
 
 # BOM: Parts
