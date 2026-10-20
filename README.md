@@ -1,4 +1,4 @@
-<img width="1793" height="1065" alt="Draft wiring diagram" src="https://github.com/user-attachments/assets/f03c9e64-19bb-463f-906a-4aec8ab75e67" />
+
 # DraftONE
 DraftONE is a modular 3D printer that does (a bit) more than your everage printer.
 
