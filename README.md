@@ -1,6 +1,8 @@
 # DraftONE
 DraftONE is a modular 3D printer that does (a bit) more than your everage printer.
 
+
+
 # Description
 ** So what exactly is this? **
 - DraftONE is a heavy duty 3d printer style platform for manufacting. It is built to be able to handle the loads of heavy manufacturing alongside the high accelerations and speeds of performance 3d printing, whilst being in a package similar to a 3D printer
