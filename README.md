@@ -23,6 +23,16 @@ DraftONE is a modular 3D printer that does (a bit) more than your everage printe
 
 - alongside this printer, I made the V.K.T.R toolhead - an ultra lightweight, A4t-style toolhead thats smaller and cheaper than the original A4T and dragonburner toolheads it was designed from. It was built to use the alreacy cheap hotend ecosystem of the Bambu Lab X1 Carbon, where you are able to get them for around 10-20 dollars each. This allowed me to prioritize the funds where it mattered, such as a better control board.
 
+### Why did you make it?
+
+SO basically, It started at Outpost/Opensauce. Seeing a friend of mine make a custom 3D printer looked so cool, and i couldnt imagine how cool it would have been to make your own 3d printer. Once I came back from outpost, I hit the ground running. I recall hopping onto CAD that morning, thinking up what I want to do with this 3D printer.
+
+It was mainly aimed to solve one problem I've personally seen and believe that others have experienced: not being able to access good, cheap, manufacturing equipment. For example, in my FTC team, although we have a reliable 3D printer, our CNC was not nearly as reliable and as a result, stuck to getting others to manufacture parts for us, which added up costs really quickly. It brought me to the idea: what if I had a 3D printer thats focused to be a do-it-all machine? what if I focus it to be a good 3D printer, whilst making it a semi-capable milling machine for softer materials and routing? I felt like I was onto something, and started. 
+
+Originally this design had a lot of ambition. I originally wanted a massive toolchanger, dual-hotend toolheads, and many more out-of-scope ideas. After a harsh reality check after realizing whatever I made in my V1 printer was really unoptimized, I took a step back and adjusted the scope. Instead of making it a toolchanger or anything like that, I just made a simple, modular design that will suit more needs than my original overscoped idea.
+
+And then. it evolved into what is currently DraftONE, a sleek and industrial-looking, yet powerful heavy duty machine made for more than just 3D printing. This personally was a wild ride for me, and I hope you'll like this.
+
 
 
 ## so without further ado, let me introduce you to DraftONE!
@@ -163,5 +173,5 @@ This thinng's wayyyyy tooo big to actually write a detailled wiring guide, but I
 
 
 ## So that's it on DraftONE, Thank you so much for actually reading through this and have fun!!!
-Made by Saharsh Nair, Funded by Hack Club
+Made by Saharsh Nair, Funded by Hack Club <3
 
