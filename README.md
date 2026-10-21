@@ -1,6 +1,6 @@
 
 # DraftONE
-DraftONE is a modular 3D printer that does (a bit) more than your everage printer.
+DraftONE is a modular 3D printer that does (a bit) more than your average printer.
 
 <img width="1536" height="864" alt="image of draftONE" src="https://github.com/user-attachments/assets/fca8e31b-4baf-4412-a0df-05ee34cc2615" />
 <img width="1127" height="1055" alt="Another image ofDraftONE" src="https://github.com/user-attachments/assets/eda27172-39de-4cd1-a04c-78098db0b44d" />
@@ -15,24 +15,28 @@ DraftONE is a modular 3D printer that does (a bit) more than your everage printe
 
 # Description
 ### So what exactly is this? 
-- DraftONE is a heavy duty 3d printer style platform for manufacting. It is built to be able to handle the loads of heavy manufacturing alongside the high accelerations and speeds of performance 3d printing, whilst being in a package similar to a 3D printer
+- DraftONE is a heavy duty 3d printer style platform for manufacturing. It is built to be able to handle the loads of heavy manufacturing alongside the high accelerations and speeds of performance 3d printing, whilst being in a package similar to a 3D printer
 
-- It was also built to be modular. built with the voron build style and package in mind, it is compatible with high-performance toolheads like the Voron Stealthburner or the Dragonburner. Also, the gantry was designed with a potential of milling and laser cutting in mind.
+- It was also built to be modular. Built with the Voron build style and package in mind, it is compatible with high-performance toolheads like the Voron Stealthburner or the Dragonburner. Also, the gantry was designed with a potential of milling and laser cutting in mind.
 
-### what else did you make with it?
+### What else did you make with it?
 
-- alongside this printer, I made the V.K.T.R toolhead - an ultra lightweight, A4t-style toolhead thats smaller and cheaper than the original A4T and dragonburner toolheads it was designed from. It was built to use the alreacy cheap hotend ecosystem of the Bambu Lab X1 Carbon, where you are able to get them for around 10-20 dollars each. This allowed me to prioritize the funds where it mattered, such as a better control board.
+- Alongside this printer, I made the V.K.T.R toolhead - an ultra-lightweight, A4T-style toolhead that's smaller and cheaper than the original A4T and DragonBurner toolheads it was designed from. It was built to use the alreacy cheap hotend ecosystem of the Bambu Lab X1 Carbon, where you are able to get them for around 10-20 dollars each. This allowed me to prioritize the funds where it mattered, such as a better control board.
 
 ### Why did you make it?
 
-SO basically, It started at Outpost/Opensauce. Seeing a friend of mine make a custom 3D printer looked so cool, and i couldnt imagine how cool it would have been to make your own 3d printer. Once I came back from outpost, I hit the ground running. I recall hopping onto CAD that morning, thinking up what I want to do with this 3D printer.
+SO basically, it started at Outpost/Opensauce. Seeing a friend of mine make a custom 3D printer looked so cool, and I couldn't imagine how cool it would have been to make your own 3d printer. Once I came back from outpost, I hit the ground running. I recall hopping onto CAD that morning, thinking up what I wanted to do with this 3D printer.
 
-It was mainly aimed to solve one problem I've personally seen and believe that others have experienced: not being able to access good, cheap, manufacturing equipment. For example, in my FTC team, although we have a reliable 3D printer, our CNC was not nearly as reliable and as a result, stuck to getting others to manufacture parts for us, which added up costs really quickly. It brought me to the idea: what if I had a 3D printer thats focused to be a do-it-all machine? what if I focus it to be a good 3D printer, whilst making it a semi-capable milling machine for softer materials and routing? I felt like I was onto something, and started. 
+It was mainly aimed at solving one problem I've personally seen and believe that others have experienced: not being able to access good, cheap, manufacturing equipment. For example, in my FTC team, although we have a reliable 3D printer, our CNC was not nearly as reliable, and as a result, we stuck to getting others to manufacture parts for us, which added up costs really quickly. It brought me to the idea: what if I had a 3D printer thats focused to be a do-it-all machine? What if I focused it to be a good 3D printer, whilst making it a semi-capable milling machine for softer materials and routing? I felt like I was onto something, and started. 
 
 Originally this design had a lot of ambition. I originally wanted a massive toolchanger, dual-hotend toolheads, and many more out-of-scope ideas. After a harsh reality check after realizing whatever I made in my V1 printer was really unoptimized, I took a step back and adjusted the scope. Instead of making it a toolchanger or anything like that, I just made a simple, modular design that will suit more needs than my original overscoped idea.
 
 And then. it evolved into what is currently DraftONE, a sleek and industrial-looking, yet powerful heavy duty machine made for more than just 3D printing. This personally was a wild ride for me, and I hope you'll like this.
 
+
+### What sort of feedback did you get and implement?
+
+Over the course of this project, I got a lot of feedback from lots of people, and it helped me in various ways. Back when I was at my original V1 printer, I received feedback (for example, in 3dp-circlework) about how, in trying to make this over-scoped design, I neglected the fundamentals in this 3D printer, which would cause issues such as toolhead flex and loss of rigidity. Alongside that, I also realized that my original "double-decker" toolhead idea wouldn't work as a result of the backpressure in the ducting, and I got a reference to the A4T-style toolhead structure, which inspired the VKTR. This feedback session made me realize that although I was progressing, I was progressing the wrong way, and in the long run, it'd be better to step back and restart with solid fundamentals rather than hope it works.
 
 
 ## so without further ado, let me introduce you to DraftONE!
