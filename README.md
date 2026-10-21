@@ -173,5 +173,5 @@ This thinng's wayyyyy tooo big to actually write a detailled wiring guide, but I
 
 
 ## So that's it on DraftONE, Thank you so much for actually reading through this and have fun!!!
-Made by Saharsh Nair, Funded by Hack Club <3
+Made by Saharsh Nair, hopefully funded by Hack Club <3
 
