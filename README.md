@@ -3,6 +3,9 @@
 DraftONE is a modular 3D printer that does (a bit) more than your everage printer.
 
 <img width="1536" height="864" alt="image of draftONE" src="https://github.com/user-attachments/assets/fca8e31b-4baf-4412-a0df-05ee34cc2615" />
+<img width="1127" height="1055" alt="Another image ofDraftONE" src="https://github.com/user-attachments/assets/eda27172-39de-4cd1-a04c-78098db0b44d" />
+<img width="880" height="899" alt="image of VKTR" src="https://github.com/user-attachments/assets/c96be178-8618-4db0-8c10-fc123db848f5" />
+
 
 
 (if you're interested in the design process, check out my [Journal!](https://stardance.hackclub.com/projects/30695)
