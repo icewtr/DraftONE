@@ -8,7 +8,8 @@ DraftONE is a modular 3D printer that does (a bit) more than your everage printe
 
 
 
-(if you're interested in the design process, check out my [Journal!](https://stardance.hackclub.com/projects/30695)
+(if you're interested in the design process, check out my [Journal!](https://stardance.hackclub.com/projects/30695))
+([Onshape Link Here!](https://cad.onshape.com/documents/799f14234b509065685c447c/w/a918fdbbd67d45ceec001d60/e/c847d4bcc65e06fd52b15de9?renderMode=0&uiState=6ad81e5bbad18ae2118a6905))
 
 
 
